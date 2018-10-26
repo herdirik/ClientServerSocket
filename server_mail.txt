@@ -1,0 +1,4 @@
+mail1: bir elimde cımbız
+mail2: bir elimde ayna
+mail3: umrumda mı dünya
+mail4: Yeni gelen bir mail!
